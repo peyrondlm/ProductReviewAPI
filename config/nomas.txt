@@ -1,1 +1,0 @@
-aqui va a ir la conexion a bd pipes
