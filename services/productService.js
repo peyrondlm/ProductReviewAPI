@@ -8,6 +8,10 @@ export async function getProductById(id) {
   return await Services.findById(id);
 }
 
+export async function getProductsByCategory(category) {
+  return Services.find({ category });
+}
+
 export async function createProduct(data) {
   return await Services.create(data);
 }

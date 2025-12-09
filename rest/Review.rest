@@ -1,0 +1,45 @@
+### Get All Reviews
+GET http://localhost:3000/api/reviews/
+
+
+### Get Reviews by Product Category
+GET http://localhost:3000/api/reviews?category=NOMBRE_DE_LA_CATEGORIA
+
+
+### Get Reviews by Reviewer Name
+GET http://localhost:3000/api/reviews?reviewer=NOMBRE_DEL_REVIEWER
+
+
+### Get Review by ID
+GET http://localhost:3000/api/reviews/ID_DE_LA_REVIEW
+
+
+### Create Review
+POST http://localhost:3000/api/reviews/
+Content-Type: application/json
+Authorization: Bearer TU_PINXI_TOKEN
+
+{
+  "title": "Great Product!",
+  "content": "I really enjoyed using this product. Highly recommend!",
+  "product_id": "ID_DEL_PRODUCTO",
+  "reviewer_id": "ID_DEL_REVIEWER"
+}
+
+
+### Update Review
+PUT http://localhost:3000/api/reviews/ID_DE_LA_REVIEW
+Content-Type: application/json
+Authorization: Bearer TU_PINXI_TOKEN
+
+{
+  "title": "Updated Review Title",
+  "content": "After using it for a while, I have some new thoughts.",
+  "product_id": "ID_DEL_PRODUCTO",
+  "reviewer_id": "ID_DEL_REVIEWER"
+}
+
+
+### Delete Review
+DELETE http://localhost:3000/api/reviews/ID_DE_LA_REVIEW
+Authorization: Bearer TU_PINXI_TOKEN

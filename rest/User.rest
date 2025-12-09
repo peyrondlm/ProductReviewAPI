@@ -1,0 +1,46 @@
+### Get All Users
+GET http://localhost:3000/api/users/
+
+
+### Get User by ID
+GET http://localhost:3000/api/users/ID_DEL_USUARIO
+
+
+### Create User
+POST http://localhost:3000/api/users/
+Content-Type: application/json
+
+{
+  "name": "José Fernández",
+  "email": "jose.fernandez@example.com",
+  "password": "password123",
+  "profile_photo": "https://example.com/avatar.jpg"
+}
+
+
+### Update User
+PUT http://localhost:3000/api/users/ID_DEL_USUARIO
+Content-Type: application/json
+Authorization: Bearer TU_PINXI_TOKEN
+
+{
+  "name": "Juan Pérez Actualizado",
+  "email": "juan.perez.updated@example.com",
+  "password": "password5678",
+  "profile_photo": "https://example.com/avatar-updated.jpg"
+}
+
+
+### Delete User
+DELETE http://localhost:3000/api/users/ID_DEL_USUARIO
+Authorization: Bearer TU_PINXI_TOKEN
+
+
+### Login User
+POST http://localhost:3000/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "usuario@example.com",
+  "password": "password123"
+}

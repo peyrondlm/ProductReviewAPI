@@ -55,4 +55,3 @@ export async function updateReview(id, data) {
 export async function deleteReview(id) {
   return await Review.findByIdAndDelete(id);
 }
-

@@ -30,6 +30,22 @@ export async function getById(req, res) {
   }
 }
 
+export async function getByCategory(req, res) {
+  try {
+    const { category } = req.query;
+
+    if (!category) {
+      return res.status(400).json({ message: "Category query param is required" });
+    }
+
+    const products = await ProductService.getProductsByCategory(category);
+
+    res.json(products);
+  } catch (error) {
+    res.status(500).json({ message: "Error fetching products by category", error });
+  }
+}
+
 export async function create(req, res) {
   try {
     const data = req.body;

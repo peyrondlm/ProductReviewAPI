@@ -1,0 +1,35 @@
+### Get All Reviewers
+GET http://localhost:3000/api/reviewers/
+Authorization: Bearer TU_PINXI_TOKEN
+
+
+### Get Reviewer by ID
+GET http://localhost:3000/api/reviewers/ID_DEL_REVIEWER
+Authorization: Bearer TU_PINXI_TOKEN
+
+
+### Create Reviewer
+POST http://localhost:3000/api/reviewers/
+Content-Type: application/json
+Authorization: Bearer TU_PINXI_TOKEN
+
+{
+  "name": "Juan Pérez",
+  "profile_photo": "https://example.com/avatar.jpg"
+}
+
+
+### Update Reviewer
+PUT http://localhost:3000/api/reviewers/ID_DEL_REVIEWER
+Content-Type: application/json
+Authorization: Bearer TU_PINXI_TOKEN
+
+{
+  "name": "Juan Pérez Actualizado",
+  "profile_photo": "https://example.com/avatar-updated.jpg"
+}
+
+
+### Delete Reviewer
+DELETE http://localhost:3000/api/reviewers/ID_DEL_REVIEWER
+Authorization: Bearer TU_PINXI_TOKEN

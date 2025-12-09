@@ -1,0 +1,32 @@
+### Get All Comments by Review ID
+GET http://localhost:3000/api/comments/review/ID_DE_LA_REVIEW
+
+
+### Get Comment by ID
+GET http://localhost:3000/api/comments/ID_DEL_COMENTARIO
+
+
+### Create New Comment
+POST http://localhost:3000/api/comments/
+Content-Type: application/json
+Authorization: Bearer TU_PINXI_TOKEN
+
+{
+  "content": "This is a comment 3",
+  "review_id": "ID_DE_LA_REVIEW"
+}
+
+
+### Update Comment by ID
+PUT http://localhost:3000/api/comments/ID_DEL_COMENTARIO
+Content-Type: application/json
+Authorization: Bearer TU_PINXI_TOKEN
+
+{
+  "content": "This is an updated comment"
+}
+
+
+### Delete Comment by ID
+DELETE http://localhost:3000/api/comments/ID_DEL_COMENTARIO
+Authorization: Bearer TU_PINXI_TOKEN

@@ -2,6 +2,7 @@ import express from "express";
 import {
   getAll,
   getById,
+  getByCategory,
   create,
   update,
   remove
@@ -12,6 +13,7 @@ import { authorizeAdmin } from "../middlewares/authorizeAdmin.js";
 const router = express.Router();
 
 router.get("/", getAll);
+router.get("/category", getByCategory);
 router.get("/:id", getById);
 
 router.post("/", authenticateToken, authorizeAdmin, create);

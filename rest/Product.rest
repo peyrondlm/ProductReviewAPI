@@ -1,0 +1,45 @@
+### Get All Products
+GET http://localhost:3000/api/products/
+
+
+### Get Product by ID
+GET http://localhost:3000/api/products/ID_DEL_PRODUCTO
+
+
+### Create New Product
+POST http://localhost:3000/api/products/
+Content-Type: application/json
+Authorization: Bearer TU_PINXI_TOKEN
+
+{
+  "name": "Monitor 27”",
+  "description": "Alta resolución",
+  "brand": "LG",
+  "category": "Monitor",
+  "price": 450,
+  "image": "monitor.jpg",
+  "specs": [
+    { "screen": "1920x1080" },
+    { "panel": "OLED" },
+    { "refreshRate": 144 },
+    { "hdr": true }
+  ]
+}
+
+
+### Update Product by ID
+PUT http://localhost:3000/api/products/ID_DEL_PRODUCTO
+Content-Type: application/json
+Authorization: Bearer TU_PINXI_TOKEN
+
+{
+  "specs": [
+    { "refreshRate": 290 },
+    { "gsync": true }
+  ]
+}
+
+
+### Delete Product by ID
+DELETE http://localhost:3000/api/products/ID_DEL_PRODUCTO
+Authorization: Bearer TU_PINXI_TOKEN
