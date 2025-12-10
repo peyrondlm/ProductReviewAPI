@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 import * as UserService from "../services/userService.js";
 import bcrypt from "bcrypt";
 
-const saltRounds = parseInt(process.env.SALT_ROUNDS)
+const saltRounds = parseInt(process.env.SALT_ROUNDS);
 
 export async function getAll(_, res) {
   try {
@@ -18,15 +18,15 @@ export async function getById(req, res) {
     const { id } = req.params;
 
     if (!mongoose.Types.ObjectId.isValid(id)) {
-      return res.status(400).json({ message: 'Invalid id format' });
+      return res.status(400).json({ message: "Invalid id format" });
     }
 
     const user = await UserService.getUserById(id);
-    
+
     if (!user) {
       return res.status(404).json({ message: "User not found" });
     }
-    
+
     res.status(200).json(user);
   } catch (error) {
     res.status(500).json({ message: "Error fetching user" });
@@ -38,8 +38,10 @@ export async function create(req, res) {
     const data = req.body;
     delete data.role;
     data.role = "user";
+
     const hashedPassword = await bcrypt.hash(data.password, saltRounds);
     data.password = hashedPassword;
+
     const user = await UserService.createUser(data);
     res.status(201).json(user);
   } catch (error) {
@@ -56,12 +58,18 @@ export async function update(req, res) {
       return res.status(400).json({ message: "Invalid id format" });
     }
 
+    if (!req.user || req.user.id !== id) {
+      return res.status(403).json({ message: "Forbidden: not your account" });
+    }
+
     if (data.password && data.password.trim() !== "") {
       const hashedPassword = await bcrypt.hash(data.password, saltRounds);
       data.password = hashedPassword;
     } else {
       delete data.password;
     }
+
+    delete data.role;
 
     const user = await UserService.updateUser(id, data);
 
@@ -81,7 +89,11 @@ export async function remove(req, res) {
     const { id } = req.params;
 
     if (!mongoose.Types.ObjectId.isValid(id)) {
-      return res.status(400).json({ message: 'Invalid id format' });
+      return res.status(400).json({ message: "Invalid id format" });
+    }
+
+    if (!req.user || req.user.id !== id) {
+      return res.status(403).json({ message: "Forbidden: not your account" });
     }
 
     const user = await UserService.deleteUser(id);

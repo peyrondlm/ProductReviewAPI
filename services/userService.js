@@ -1,11 +1,11 @@
 import Services from "../models/userModel.js";
 
 export async function getAllUsers() {
-  return await Services.find();
+  return await Services.find().select("-password -email -role");
 }
 
 export async function getUserById(id) {
-  return await Services.findById(id);
+  return await Services.findById(id).select("-password -email -role");
 }
 
 export async function getUserByEmail(email) {
