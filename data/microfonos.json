@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Fifine Ampligame A6V",
+    "description": "Micrófono USB para streaming y gaming",
+    "brand": "Fifine",
+    "category": "Microfono",
+    "price": 499,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321255/1_jwnpjt.png",
+    "specs": [
+      { "audio drivers": "Condensador" },
+      { "Conexion": "USB (A - C / plug-and-play)" },
+      { "Cable": "Incluido (desmontable/USB)" },
+      { "muteButton": true }
+    ]
+  },
+  {
+    "name": "Blue Yeti",
+    "description": "Micrófono USB multipatrón para grabación profesional",
+    "brand": "Blue",
+    "category": "Microfono",
+    "price": 3238,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321261/2_a8bw9r.png",
+    "specs": [
+      { "audio drivers": "Condensador (múltiples cápsulas)" },
+      { "Conexion": "USB (A)" },
+      { "Cable": "Desmontable (USB)" },
+      { "muteButton": true }
+    ]
+  },
+  {
+    "name": "HyperX QuadCast S",
+    "description": "Micrófono RGB para streaming con antivibración",
+    "brand": "HyperX",
+    "category": "Microfono",
+    "price": 4299,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321262/3_jhngxp.png",
+    "specs": [
+      { "audio drivers": "Condensador" },
+      { "Conexion": "USB" },
+      { "Cable": "Desmontable (USB)" },
+      { "muteButton": true }
+    ]
+  },
+  {
+    "name": "Razer Seiren Mini",
+    "description": "Micrófono compacto para streaming",
+    "brand": "Razer",
+    "category": "Microfono",
+    "price": 1299,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321263/4_corpsv.png",
+    "specs": [
+      { "audio drivers": "Condensador" },
+      { "Conexion": "USB (A - C cable incluido)" },
+      { "Cable": "Incluido (desmontable/USB-C)" },
+      { "muteButton": false }
+    ]
+  },
+  {
+    "name": "Elgato Wave 3",
+    "description": "Micrófono premium para creadores de contenido",
+    "brand": "Elgato",
+    "category": "Microfono",
+    "price": 3348,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321264/5_pwq7jh.png",
+    "specs": [
+      { "audio drivers": "Condensador electret" },
+      { "Conexion": "USB-C" },
+      { "Cable": "Desmontable (USB-C)" },
+      { "muteButton": true }
+    ]
+  },
+  {
+    "name": "Shure MV7",
+    "description": "Micrófono híbrido USB/XLR para podcasting",
+    "brand": "Shure",
+    "category": "Microfono",
+    "price": 6999,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321265/6_mdmsxi.png",
+    "specs": [
+      { "audio drivers": "Dinámico" },
+      { "Conexion": "USB / XLR" },
+      { "Cable": "Desmontable (USB y XLR compatibles)" },
+      { "muteButton": true }
+    ]
+  },
+  {
+    "name": "Audio-Technica AT2020USB+",
+    "description": "Micrófono de condensador USB de alta calidad",
+    "brand": "Audio-Technica",
+    "category": "Microfono",
+    "price": 3268,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321266/7_njk1nn.png",
+    "specs": [
+      { "audio drivers": "Condensador" },
+      { "Conexion": "USB" },
+      { "Cable": "Desmontable (USB)" },
+      { "muteButton": true }
+    ]
+  },
+  {
+    "name": "Maono AU-PM461TR",
+    "description": "Micrófono USB económico y versátil",
+    "brand": "Maono",
+    "category": "Microfono",
+    "price": 799,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321267/8_ndh3gz.png",
+    "specs": [
+      { "audio drivers": "Condensador" },
+      { "Conexion": "USB" },
+      { "Cable": "Desmontable (USB)" },
+      { "muteButton": true }
+    ]
+  },
+  {
+    "name": "Fifine K669B",
+    "description": "Micrófono USB popular y económico",
+    "brand": "Fifine",
+    "category": "Microfono",
+    "price": 699,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321278/9_gxrgid.png",
+    "specs": [
+      { "audio drivers": "Condensador" },
+      { "Conexion": "USB" },
+      { "Cable": "Desmontable (USB)" },
+      { "muteButton": true }
+    ]
+  },
+  {
+    "name": "Neewer NW-7000",
+    "description": "Micrófono USB de condensador / kit para principiantes",
+    "brand": "Neewer",
+    "category": "Microfono",
+    "price": 599,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321256/10_zmewly.png",
+    "specs": [
+      { "audio drivers": "Condensador" },
+      { "Conexion": "USB" },
+      { "Cable": "Desmontable (USB)" },
+      { "muteButton": false }
+    ]
+  }
+]

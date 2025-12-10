@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Redragon K530 Draconic",
+    "description": "Teclado mecánico inalámbrico 60%",
+    "brand": "Redragon",
+    "category": "Teclado",
+    "price": 900,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765320833/1_rnb3mu.png",
+    "specs": [
+      { "type": "Mechanical" },
+      { "switches": "Brown" },
+      { "connection": "Bluetooth / USB-C" },
+      { "rgb": true }
+    ]
+  },
+  {
+    "name": "Logitech G Pro X",
+    "description": "Teclado mecánico modular con switches intercambiables",
+    "brand": "Logitech",
+    "category": "Teclado",
+    "price": 2800,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765320835/2_hlmnw9.png",
+    "specs": [
+      { "type": "Mechanical" },
+      { "switches": "GX Blue" },
+      { "connection": "USB" },
+      { "rgb": true }
+    ]
+  },
+  {
+    "name": "Razer Huntsman Mini",
+    "description": "Teclado 60% con switches ópticos",
+    "brand": "Razer",
+    "category": "Teclado",
+    "price": 2400,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765320836/3_ufiy13.png",
+    "specs": [
+      { "type": "Optical" },
+      { "switches": "Purple Optical" },
+      { "connection": "USB-C" },
+      { "rgb": true }
+    ]
+  },
+  {
+    "name": "HyperX Alloy Origins Core",
+    "description": "Teclado TKL con switches HyperX Red",
+    "brand": "HyperX",
+    "category": "Teclado",
+    "price": 1700,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765320837/4_qbjxpn.png",
+    "specs": [
+      { "type": "Mechanical" },
+      { "switches": "HyperX Red" },
+      { "connection": "USB-C" },
+      { "rgb": true }
+    ]
+  },
+  {
+    "name": "Keychron K2 V2",
+    "description": "Teclado inalámbrico compacto para productividad y gaming",
+    "brand": "Keychron",
+    "category": "Teclado",
+    "price": 2200,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765320838/5_auf9a0.png",
+    "specs": [
+      { "type": "Mechanical" },
+      { "switches": "Gateron Brown" },
+      { "connection": "Bluetooth / USB-C" },
+      { "rgb": false }
+    ]
+  },
+  {
+    "name": "Corsair K70 RGB TKL",
+    "description": "Teclado mecánico TKL de alto rendimiento",
+    "brand": "Corsair",
+    "category": "Teclado",
+    "price": 2600,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765320839/6_bw80dy.png",
+    "specs": [
+      { "type": "Mechanical" },
+      { "switches": "Cherry MX Red" },
+      { "connection": "USB-C" },
+      { "rgb": true }
+    ]
+  },
+  {
+    "name": "Ducky One 2 Mini",
+    "description": "Teclado 60% con excelente calidad de construcción",
+    "brand": "Ducky",
+    "category": "Teclado",
+    "price": 2500,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321243/7_c1r8nt.png",
+    "specs": [
+      { "type": "Mechanical" },
+      { "switches": "Cherry MX Brown" },
+      { "connection": "USB-C" },
+      { "rgb": true }
+    ]
+  },
+  {
+    "name": "Anne Pro 2",
+    "description": "Teclado mecánico 60% con Bluetooth",
+    "brand": "Obinslab",
+    "category": "Teclado",
+    "price": 1900,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321243/8_pbelc0.png",
+    "specs": [
+      { "type": "Mechanical" },
+      { "switches": "Gateron Red" },
+      { "connection": "Bluetooth / USB-C" },
+      { "rgb": true }
+    ]
+  },
+  {
+    "name": "Royal Kludge RK61",
+    "description": "Teclado mecánico 60% económico y versátil",
+    "brand": "Royal Kludge",
+    "category": "Teclado",
+    "price": 850,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321244/9_xzn4ud.png",
+    "specs": [
+      { "type": "Mechanical" },
+      { "switches": "Red" },
+      { "connection": "Bluetooth / USB-C" },
+      { "rgb": true }
+    ]
+  },
+  {
+    "name": "Akko 3068B Plus",
+    "description": "Teclado compacto 65% con triple conexión",
+    "brand": "Akko",
+    "category": "Teclado",
+    "price": 2100,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765320834/10_paebqv.png",
+    "specs": [
+      { "type": "Mechanical" },
+      { "switches": "Akko CS Silver" },
+      { "connection": "Bluetooth / 2.4GHz / USB-C" },
+      { "rgb": true }
+    ]
+  }
+]

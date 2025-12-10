@@ -9,7 +9,9 @@ export async function getProductById(id) {
 }
 
 export async function getProductsByCategory(category) {
-  return Services.find({ category });
+  return Services.find({
+    category: { $regex: new RegExp(`^${category}$`, "i") }
+  });
 }
 
 export async function createProduct(data) {

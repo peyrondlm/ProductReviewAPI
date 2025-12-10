@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Castor Bass Edition",
+    "description": "Audífonos in-ear con graves profundos",
+    "brand": "QZ",
+    "category": "IEM",
+    "price": 200,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321310/1_yqj1xy.png",
+    "specs": [
+      { "audio drivers": "Doble controlador dinámico (10mm)" },
+      { "Conexion": "3.5 mm" },
+      { "Cable": "Desmontable" },
+      { "impedance": "22Ω" }
+    ]
+  },
+  {
+    "name": "Moondrop Aria",
+    "description": "IEMs balanceados y detallados",
+    "brand": "Moondrop",
+    "category": "IEM",
+    "price": 850,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321308/2_drtpci.png",
+    "specs": [
+      { "audio drivers": "Dinámico 10mm LCP" },
+      { "Conexion": "2-Pin 0.78mm" },
+      { "Cable": "Desmontable trenzado" },
+      { "impedance": "32Ω" }
+    ]
+  },
+  {
+    "name": "KZ ZSN Pro X",
+    "description": "IEM híbrido económico con buena potencia",
+    "brand": "KZ",
+    "category": "IEM",
+    "price": 300,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765322990/3_lccusk.png",
+    "specs": [
+      { "audio drivers": "1BA + 1DD" },
+      { "Conexion": "2-Pin 0.75mm" },
+      { "Cable": "Desmontable" },
+      { "impedance": "25Ω" }
+    ]
+  },
+  {
+    "name": "TRN ST5",
+    "description": "IEM híbrido con amplio escenario",
+    "brand": "TRN",
+    "category": "IEM",
+    "price": 950,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765322992/4_g9ensx.png",
+    "specs": [
+      { "audio drivers": "1DD + 4BA" },
+      { "Conexion": "2-Pin" },
+      { "Cable": "OFC plateado" },
+      { "impedance": "22Ω" }
+    ]
+  },
+  {
+    "name": "CCA CRA",
+    "description": "IEM económico con excelente claridad",
+    "brand": "CCA",
+    "category": "IEM",
+    "price": 250,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321309/5_jy6g96.png",
+    "specs": [
+      { "audio drivers": "Dinámico 10mm" },
+      { "Conexion": "2-Pin" },
+      { "Cable": "Desmontable" },
+      { "impedance": "34Ω" }
+    ]
+  },
+  {
+    "name": "Blon BL03",
+    "description": "IEM famoso por su sonido cálido",
+    "brand": "Blon",
+    "category": "IEM",
+    "price": 400,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321317/6_bohbch.png",
+    "specs": [
+      { "audio drivers": "Dinámico 10mm CNT" },
+      { "Conexion": "2-Pin" },
+      { "Cable": "Desmontable" },
+      { "impedance": "32Ω" }
+    ]
+  },
+  {
+    "name": "TinHiFi T2",
+    "description": "IEM de sonido analítico con gran detalle",
+    "brand": "TinHiFi",
+    "category": "IEM",
+    "price": 1200,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321316/7_zzsemr.png",
+    "specs": [
+      { "audio drivers": "Dual dinámico" },
+      { "Conexion": "MMCX" },
+      { "Cable": "Desmontable plateado" },
+      { "impedance": "16Ω" }
+    ]
+  },
+  {
+    "name": "7Hz Salnotes Zero",
+    "description": "IEM con sonido neutral y excelente calidad/precio",
+    "brand": "7Hz",
+    "category": "IEM",
+    "price": 400,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321314/8_e8ll6e.png",
+    "specs": [
+      { "audio drivers": "Dinámico 10mm metal composite" },
+      { "Conexion": "2-Pin" },
+      { "Cable": "Desmontable" },
+      { "impedance": "32Ω" }
+    ]
+  },
+  {
+    "name": "Moondrop Chu",
+    "description": "IEM muy detallado para su precio",
+    "brand": "Moondrop",
+    "category": "IEM",
+    "price": 400,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321313/9_y5wgb0.png",
+    "specs": [
+      { "audio drivers": "Dinámico 10mm" },
+      { "Conexion": "Cable fijo" },
+      { "Cable": "Reforzado con Kevlar" },
+      { "impedance": "18Ω" }
+    ]
+  },
+  {
+    "name": "Kiwi Ears Cadenza",
+    "description": "IEM con sonido equilibrado y gran detalle",
+    "brand": "Kiwi Ears",
+    "category": "IEM",
+    "price": 520,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321311/10_mxdkwy.pngg",
+    "specs": [
+      { "audio drivers": "Dinámico 10mm LCP" },
+      { "Conexion": "2-Pin 0.78mm" },
+      { "Cable": "Desmontable cable trenzado" },
+      { "impedance": "32Ω" }
+    ]
+  }
+]

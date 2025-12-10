@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Monitor 27”",
+    "description": "Alta resolución",
+    "brand": "LG",
+    "category": "Monitor",
+    "price": 2200,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321401/1_evatyt.png",
+    "specs": [
+      { "screen": "1920x1080" },
+      { "panel": "OLED" },
+      { "refreshRate": 144 },
+      { "hdr": true }
+    ]
+  },
+  {
+    "name": "ASUS ROG Strix 27”",
+    "description": "Monitor gaming de alto rendimiento",
+    "brand": "ASUS",
+    "category": "Monitor",
+    "price": 5999,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321400/2_afswbl.png",
+    "specs": [
+      { "screen": "2560x1440" },
+      { "panel": "IPS" },
+      { "refreshRate": 165 },
+      { "hdr": true }
+    ]
+  },
+  {
+    "name": "Samsung Odyssey G5 27”",
+    "description": "Pantalla curva con excelente contraste",
+    "brand": "Samsung",
+    "category": "Monitor",
+    "price": 6099,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321369/3_ilrirp.png",
+    "specs": [
+      { "screen": "2560x1440" },
+      { "panel": "VA" },
+      { "refreshRate": 144 },
+      { "hdr": true }
+    ]
+  },
+  {
+    "name": "Acer Nitro VG271",
+    "description": "Monitor gaming económico",
+    "brand": "Acer",
+    "category": "Monitor",
+    "price": 5540,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321411/4_slzv4n.png",
+    "specs": [
+      { "screen": "1920x1080" },
+      { "panel": "IPS" },
+      { "refreshRate": 165 },
+      { "hdr": false }
+    ]
+  },
+  {
+    "name": "Gigabyte M27Q",
+    "description": "Ideal para multitarea y gaming",
+    "brand": "Gigabyte",
+    "category": "Monitor",
+    "price": 4900,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321409/5_quvpx4.png",
+    "specs": [
+      { "screen": "2560x1440" },
+      { "panel": "IPS" },
+      { "refreshRate": 170 },
+      { "hdr": true }
+    ]
+  },
+  {
+    "name": "Dell Ultrasharp U2722D",
+    "description": "Monitor profesional de alta precisión de color",
+    "brand": "Dell",
+    "category": "Monitor",
+    "price": 3999,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321408/6_sbjpxj.png",
+    "specs": [
+      { "screen": "2560x1440" },
+      { "panel": "IPS" },
+      { "refreshRate": 60 },
+      { "hdr": false }
+    ]
+  },
+  {
+    "name": "MSI Optix G27C4",
+    "description": "Monitor curvo para gaming fluido",
+    "brand": "MSI",
+    "category": "Monitor",
+    "price": 2250,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321407/7_gtmqqm.png",
+    "specs": [
+      { "screen": "1920x1080" },
+      { "panel": "VA" },
+      { "refreshRate": 165 },
+      { "hdr": false }
+    ]
+  },
+  {
+    "name": "BenQ EX2780Q",
+    "description": "Monitor multimedia con sonido integrado",
+    "brand": "BenQ",
+    "category": "Monitor",
+    "price": 4000,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321405/8_ai0snf.png",
+    "specs": [
+      { "screen": "2560x1440" },
+      { "panel": "IPS" },
+      { "refreshRate": 144 },
+      { "hdr": true }
+    ]
+  },
+  {
+    "name": "HP X27",
+    "description": "Monitor gamer accesible",
+    "brand": "HP",
+    "category": "Monitor",
+    "price": 1500,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321404/9_rgkgxg.png",
+    "specs": [
+      { "screen": "1920x1080" },
+      { "panel": "IPS" },
+      { "refreshRate": 165 },
+      { "hdr": false }
+    ]
+  },
+  {
+    "name": "LG UltraGear 27”",
+    "description": "Monitor gamer 1080p con buen rendimiento",
+    "brand": "LG",
+    "category": "Monitor",
+    "price": 2999,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321403/10_m1yopq.png",
+    "specs": [
+      { "screen": "1920x1080" },
+      { "panel": "IPS" },
+      { "refreshRate": 144 },
+      { "hdr": true }
+    ]
+  }
+]

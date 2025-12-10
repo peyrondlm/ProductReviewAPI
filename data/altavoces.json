@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Bose Flex 2 SoundLink",
+    "description": "Altavoz portátil Bluetooth",
+    "brand": "Bose",
+    "category": "Altavoz",
+    "price": 2500,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321284/1_jhslxl.png",
+    "specs": [
+      { "Bluetooth version": "5.3" },
+      { "Water resistance": "IP67" },
+      { "Baterry Duration": "8 hours" },
+      { "positionIQ": true }
+    ]
+  },
+  {
+    "name": "Sony SRS-XE300",
+    "description": "Altavoz con difusión de sonido lineal",
+    "brand": "Sony",
+    "category": "Altavoz",
+    "price": 3200,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321286/2_epfrij.png",
+    "specs": [
+      { "Bluetooth version": "5.2" },
+      { "Water resistance": "IP67" },
+      { "Baterry Duration": "24 hours" },
+      { "positionIQ": false }
+    ]
+  },
+  {
+    "name": "Ultimate Ears Boom 3",
+    "description": "Altavoz resistente con sonido 360°",
+    "brand": "Ultimate Ears",
+    "category": "Altavoz",
+    "price": 2300,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321287/3_ixrv5n.png",
+    "specs": [
+      { "Bluetooth version": "5.0" },
+      { "Water resistance": "IP67" },
+      { "Baterry Duration": "15 hours" },
+      { "positionIQ": false }
+    ]
+  },
+  {
+    "name": "Marshall Emberton II",
+    "description": "Altavoz compacto con sonido Marshall",
+    "brand": "Marshall",
+    "category": "Altavoz",
+    "price": 3500,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321289/4_p1nazs.png",
+    "specs": [
+      { "Bluetooth version": "5.1" },
+      { "Water resistance": "IP67" },
+      { "Baterry Duration": "30 hours" },
+      { "positionIQ": false }
+    ]
+  },
+  {
+    "name": "Anker Soundcore Motion+",
+    "description": "Altavoz Hi-Res con sonido detallado",
+    "brand": "Anker",
+    "category": "Altavoz",
+    "price": 1500,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321290/5_jcvjeu.png",
+    "specs": [
+      { "Bluetooth version": "5.0" },
+      { "Water resistance": "IPX7" },
+      { "Baterry Duration": "12 hours" },
+      { "positionIQ": false }
+    ]
+  },
+  {
+    "name": "Sonos Roam",
+    "description": "Altavoz premium portátil WiFi/Bluetooth",
+    "brand": "Sonos",
+    "category": "Altavoz",
+    "price": 4200,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321291/6_r84uck.png",
+    "specs": [
+      { "Bluetooth version": "5.0" },
+      { "Water resistance": "IP67" },
+      { "Baterry Duration": "10 hours" },
+      { "positionIQ": true }
+    ]
+  },
+  {
+    "name": "Tribit StormBox Micro 2",
+    "description": "Altavoz ultra compacto con buen sonido",
+    "brand": "Tribit",
+    "category": "Altavoz",
+    "price": 900,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321293/7_aancbd.png",
+    "specs": [
+      { "Bluetooth version": "5.3" },
+      { "Water resistance": "IP67" },
+      { "Baterry Duration": "12 hours" },
+      { "positionIQ": false }
+    ]
+  },
+  {
+    "name": "Harman Kardon Onyx Studio 7",
+    "description": "Altavoz elegante con sonido premium",
+    "brand": "Harman Kardon",
+    "category": "Altavoz",
+    "price": 3800,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321293/8_wifjjc.png",
+    "specs": [
+      { "Bluetooth version": "4.2" },
+      { "Water resistance": "None" },
+      { "Baterry Duration": "8 hours" },
+      { "positionIQ": false }
+    ]
+  },
+  {
+    "name": "Bose SoundLink Micro",
+    "description": "Altavoz pequeño con gran potencia",
+    "brand": "Bose",
+    "category": "Altavoz",
+    "price": 2100,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321294/9_mcpph2.png",
+    "specs": [
+      { "Bluetooth version": "5.0" },
+      { "Water resistance": "IP67" },
+      { "Baterry Duration": "6 hours" },
+      { "positionIQ": false }
+    ]
+  },
+  {
+    "name": "JBL Flip 6",
+    "description": "Altavoz portátil con sonido fuerte y claro",
+    "brand": "JBL",
+    "category": "Altavoz",
+    "price": 1900,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321285/10_mdbwuu.png",
+    "specs": [
+      { "Bluetooth version": "5.1" },
+      { "Water resistance": "IP67" },
+      { "Baterry Duration": "12 hours" },
+      { "positionIQ": false }
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Logitech G203 Lightsync",
+    "description": "Mouse gamer con alta precisión",
+    "brand": "Logitech",
+    "category": "Mouse",
+    "price": 450,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321245/1_h3jvod.png",
+    "specs": [
+      { "dpi": "8000 DPI" },
+      { "connection": "USB" },
+      { "rgb": true },
+      { "buttons": 6 }
+    ]
+  },
+  {
+    "name": "Razer DeathAdder Essential",
+    "description": "Mouse ergonómico para gaming",
+    "brand": "Razer",
+    "category": "Mouse",
+    "price": 520,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321247/2_mrbalg.png",
+    "specs": [
+      { "dpi": "6400 DPI" },
+      { "connection": "USB" },
+      { "rgb": false },
+      { "buttons": 5 }
+    ]
+  },
+  {
+    "name": "Logitech G502 HERO",
+    "description": "Mouse gamer con pesos ajustables",
+    "brand": "Logitech",
+    "category": "Mouse",
+    "price": 1100,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321248/3_ymajsi.png",
+    "specs": [
+      { "dpi": "25600 DPI" },
+      { "connection": "USB" },
+      { "rgb": true },
+      { "buttons": 11 }
+    ]
+  },
+  {
+    "name": "SteelSeries Rival 3",
+    "description": "Mouse ligero con switches duraderos",
+    "brand": "SteelSeries",
+    "category": "Mouse",
+    "price": 650,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321249/4_nktuk5.png",
+    "specs": [
+      { "dpi": "8500 DPI" },
+      { "connection": "USB" },
+      { "rgb": true },
+      { "buttons": 6 }
+    ]
+  },
+  {
+    "name": "Corsair Harpoon RGB Pro",
+    "description": "Mouse ligero y cómodo para sesiones largas",
+    "brand": "Corsair",
+    "category": "Mouse",
+    "price": 700,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321250/5_bhzjst.png",
+    "specs": [
+      { "dpi": "12000 DPI" },
+      { "connection": "USB" },
+      { "rgb": true },
+      { "buttons": 6 }
+    ]
+  },
+  {
+    "name": "Redragon M607 Griffin",
+    "description": "Mouse accesible con buen rendimiento",
+    "brand": "Redragon",
+    "category": "Mouse",
+    "price": 350,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321251/6_wctbps.png",
+    "specs": [
+      { "dpi": "7200 DPI" },
+      { "connection": "USB" },
+      { "rgb": true },
+      { "buttons": 7 }
+    ]
+  },
+  {
+    "name": "Cooler Master MM710",
+    "description": "Mouse ultra ligero tipo honeycomb",
+    "brand": "Cooler Master",
+    "category": "Mouse",
+    "price": 950,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321252/7_ehqxsj.png",
+    "specs": [
+      { "dpi": "16000 DPI" },
+      { "connection": "USB" },
+      { "rgb": false },
+      { "buttons": 6 }
+    ]
+  },
+  {
+    "name": "Logitech G Pro X Superlight",
+    "description": "Mouse inalámbrico ultraligero para eSports",
+    "brand": "Logitech",
+    "category": "Mouse",
+    "price": 3200,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321253/8_prr3ka.png",
+    "specs": [
+      { "dpi": "25600 DPI" },
+      { "connection": "Wireless" },
+      { "rgb": true },
+      { "buttons": 5 }
+    ]
+  },
+  {
+    "name": "Razer Viper Mini",
+    "description": "Mouse ambidiestro compacto",
+    "brand": "Razer",
+    "category": "Mouse",
+    "price": 600,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321254/9_iohqnn.png",
+    "specs": [
+      { "dpi": "8500 DPI" },
+      { "connection": "USB" },
+      { "rgb": true },
+      { "buttons": 6 }
+    ]
+  },
+  {
+    "name": "HyperX Pulsefire FPS Pro",
+    "description": "Mouse de alto rendimiento con sensor Pixart 3389",
+    "brand": "HyperX",
+    "category": "Mouse",
+    "price": 900,
+    "image": "https://res.cloudinary.com/ddfg5b0z1/image/upload/v1765321246/10_sryokp.png",
+    "specs": [
+      { "dpi": "16000 DPI" },
+      { "connection": "USB" },
+      { "rgb": true },
+      { "buttons": 6 }
+    ]
+  }
+]
